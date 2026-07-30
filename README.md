@@ -1,4 +1,4 @@
-Hi! I'm Helper 
+Hi! I'm Helper a
 Cybersecurity student at MIVA Open University
  Currently studying network security, ethical hacking and vulnerabilities
  Learning penetration testing, Python for security and Linux
